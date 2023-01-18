@@ -10,4 +10,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: 出力！！！！
-        run: echo 🤔
+        run: echo 君のハートにレボリューション！！
