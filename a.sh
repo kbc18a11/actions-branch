@@ -1,1 +1,1 @@
-echo hoge
+echo moge
