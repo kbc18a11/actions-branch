@@ -8,4 +8,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: 出力！！！！
-        run: echo 君のハートにレボリューション！！
+        run: sh a.sh
